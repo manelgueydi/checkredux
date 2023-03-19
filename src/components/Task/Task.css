@@ -1,0 +1,16 @@
+.input{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+
+    font-weight: 200;
+}
+.desc{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color:rgb(151, 183, 216);
+    color:rgb(109, 44, 32);
+}
+.edit{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}

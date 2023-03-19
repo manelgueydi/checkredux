@@ -1,0 +1,9 @@
+.ADD{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.Div{
+     border: 5px outset rgb(207, 90, 90);
+  background-color: rgb(100, 150, 167);
+  text-align: center;
+}
